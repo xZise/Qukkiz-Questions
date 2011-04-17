@@ -1,2 +1,8 @@
 # vi(m) temp files
 *.swp
+
+# Kate temp files
+*~
+
+# backup files
+*.bak
