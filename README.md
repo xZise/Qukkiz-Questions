@@ -39,3 +39,5 @@ To submit questions simply fork the project and create a new file with a describ
 There are no special requirements. They have to be correct and polite.
 
 If the questions uses any unit of measurement I recommend to use the metric standard, or allow to answer in both standards.
+
+If the answer is a date the question  should allow at least the [ISO date](http://en.wikipedia.org/wiki/ISO_8601#Calendar_dates): `YYYY-MM-DD`
