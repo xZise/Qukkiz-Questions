@@ -2,6 +2,12 @@
 [Accident] In which year crashed the Air France Flight 447?*2009
 [Geography] Where is the largest model railway attraction located?*Hamburg, Germany*Hamburg
 
+[Television] Where is "The Mentalist" located?*Sacramento
+[Television] Who is playing Patrick Jane in "The Mentalist"?*Simon Baker
+[Television] Who is the team leader in the TV series "NCIS"?*Leroy Jethro Gibbs
+[Television] Who is the former female director in the TV series "NCIS"?*Jennifer Shepard
+[Television] Which character is Lauren Holly playing in the TV Series "NCIS"?*Jennifer Shepard
+
 [Computer Science] Name a open distributed version control system.*Git*Mercurial*Hg*Bazaar*Monotone*Darcs
 [Computer Science] Which version control system is used for the Linux kernel?*Git*BitKeeper
 [Computer Science] A byte consists of ... bits.*eight*8
@@ -18,3 +24,5 @@
 [Railroad] How fast is the maximum operational speed of a TGV train?*320 km/h*200 mph
 [Railroad] What is the maximal delay of all Shinkansen trains per day?*5 minutes
 [Railroad] Which gauge use the Skinkansen trains?*standard gauge*1435 mm
+[Railroad] What is the future signalling, control and train protection system in europe?*European Train Control System*ETCS
+[Railroad] How many levels has the European Train Control System?*four*4
